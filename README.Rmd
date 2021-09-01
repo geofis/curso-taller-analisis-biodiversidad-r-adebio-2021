@@ -67,7 +67,10 @@ Sitúa los recursos de los que dispondrás en el curso.
 
 <br>
 
-![Why program in R?](img/wickham-against-gui.png){width=75%}
+<figure>
+<img src="img/wickham-against-gui.png" width="60%"/>
+<figcaption>Why program in R?</figcaption>
+</figure>
 
 <br>
 
@@ -150,7 +153,11 @@ Puedes consultar más en estos vídeos.
 
 ![*The Datasaurus Dozen*. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: https://www.autodesk.com/research/publications/same-stats-different-graphs](img/eda-importance.png){width=75%}
 
+<br>
+
 - **Demo**. Exploremos los datos. [Vídeo: Crear script de análisis para generar objetos, tales como tablas de R y gráficos (por ejemplo, gráficos de mosaico, gráficos de dispersión), e insertarlos en documento de manuscrito formato RMarkdown (análisis exploratorio de datos). T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
+
+<br>
 
 > En el vídeo tutorial, así como en los siguientes, verás que me refiero a scripts que disponen de dos versiones cada uno: una versión Markdown (archivo `.md`) y una versión R (archivo `.R`). Utiliza la versión *Ra*" del archivo`.R` para copiar código, pegarlo en R y reproducir los análisis. Utiliza el archivo `.md` para ver el resultado "tejido" que obtendrías al ejecutar cada script.
 

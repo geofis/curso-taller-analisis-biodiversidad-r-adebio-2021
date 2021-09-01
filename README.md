@@ -128,7 +128,10 @@ avanzados, R se caracteriza por lo siguiente:
 <br>
 
 <figure>
-<img src="img/wickham-against-gui.png" style="width:75.0%" alt="Why program in R?" /><figcaption aria-hidden="true">Why program in R?</figcaption>
+<img src="img/wickham-against-gui.png" width="60%"/>
+<figcaption>
+Why program in R?
+</figcaption>
 </figure>
 
 <br>
@@ -283,12 +286,16 @@ Puedes consultar más en estos vídeos.
 <img src="img/eda-importance.png" style="width:75.0%" alt="The Datasaurus Dozen. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: https://www.autodesk.com/research/publications/same-stats-different-graphs" /><figcaption aria-hidden="true"><em>The Datasaurus Dozen</em>. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: <a href="https://www.autodesk.com/research/publications/same-stats-different-graphs" class="uri">https://www.autodesk.com/research/publications/same-stats-different-graphs</a></figcaption>
 </figure>
 
+<br>
+
 -   **Demo**. Exploremos los datos. [Vídeo: Crear script de análisis
     para generar objetos, tales como tablas de R y gráficos (por
     ejemplo, gráficos de mosaico, gráficos de dispersión), e insertarlos
     en documento de manuscrito formato RMarkdown (análisis exploratorio
     de datos).
     T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
+
+<br>
 
 > En el vídeo tutorial, así como en los siguientes, verás que me refiero
 > a scripts que disponen de dos versiones cada uno: una versión Markdown
