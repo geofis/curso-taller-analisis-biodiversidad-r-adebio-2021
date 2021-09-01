@@ -68,11 +68,11 @@ Sitúa los recursos de los que dispondrás en el curso.
 <br>
 
 <figure>
-<img src="img/wickham-against-gui.png" width="60%"/>
+<img src="img/wickham-against-gui.png" width="75%"/>
 <figcaption>Why program in R?</figcaption>
 </figure>
 
-<br>
+&nbsp;
 
 ![Reproducibilidad y preproducibilidad 1](img/share-code-repro-01.png){width=75%}
 

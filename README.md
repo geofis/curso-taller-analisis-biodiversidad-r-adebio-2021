@@ -128,13 +128,13 @@ avanzados, R se caracteriza por lo siguiente:
 <br>
 
 <figure>
-<img src="img/wickham-against-gui.png" width="60%"/>
+<img src="img/wickham-against-gui.png" width="75%"/>
 <figcaption>
 Why program in R?
 </figcaption>
 </figure>
 
-<br>
+ 
 
 <figure>
 <img src="img/share-code-repro-01.png" style="width:75.0%" alt="Reproducibilidad y preproducibilidad 1" /><figcaption aria-hidden="true">Reproducibilidad y preproducibilidad 1</figcaption>
