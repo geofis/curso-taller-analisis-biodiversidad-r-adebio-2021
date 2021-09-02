@@ -323,7 +323,7 @@ correlación de Pearson) a dos posiciones decimales. Fuente:
     de tidyverse.
     T1:48:09](https://www.youtube.com/watch?v=YiUmteAbLt8&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=5)
 
-    > Complementar con [este ejemplo](pipa-no-pipa.html) sobre el uso de
+    > Complementar con [este ejemplo](pipa-no-pipa.md) sobre el uso de
     > la pipa `%>%` en R.
 
 -   **Demo**. [Vídeo: Análisis exploratorio de datos, parte 3. Mapas de
