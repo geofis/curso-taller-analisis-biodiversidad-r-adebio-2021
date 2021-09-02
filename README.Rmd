@@ -82,14 +82,11 @@ Sitúa los recursos de los que dispondrás en el curso.
 
 <figure>
 <img src="img/share-code-repro-01.png" width="75%"/>
-<figcaption>Reproducibilidad y preproducibilidad 1</figcaption>
 </figure>
-
-&nbsp;
 
 <figure>
 <img src="img/share-code-repro-02.png" width="75%"/>
-<figcaption>Reproducibilidad y preproducibilidad 2</figcaption>
+<figcaption>Reproducibilidad y preproducibilidad</figcaption>
 </figure>
 
 &nbsp;
@@ -177,34 +174,55 @@ Puedes consultar más en estos vídeos.
 
 &nbsp;
 
-- **Demo**. Exploremos los datos. [Vídeo: Crear script de análisis para generar objetos, tales como tablas de R y gráficos (por ejemplo, gráficos de mosaico, gráficos de dispersión), e insertarlos en documento de manuscrito formato RMarkdown (análisis exploratorio de datos). T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
+- **Demo**. [Vídeo: Análisis exploratorio de datos, parte 1. Objetos en R, insertar en documento RMarkdown. T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
 
 > En el vídeo tutorial, así como en los siguientes, verás que me refiero a scripts que disponen de dos versiones cada uno: una versión Markdown (archivo `.md`) y una versión R (archivo `.R`). Utiliza la versión *Ra*" del archivo`.R` para copiar código, pegarlo en R y reproducir los análisis. Utiliza el archivo `.md` para ver el resultado "tejido" que obtendrías al ejecutar cada script.
 
-- [Vídeo sugerido: Tutorial de `tidyverse`. Este vídeo tiene finalidad didáctica. Los análisis mostrados en éste son sólo demostrativos. En otros vídeos si ejecutaré análisis que podrían serte útiles en tu manuscrito, aplicando lo mostrado en este tutorial. T1:48:09](https://www.youtube.com/watch?v=YiUmteAbLt8&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=5)
+- [Vídeo sugerido: Análisis exploratorio de datos, parte 2. Tutorial de tidyverse. T1:48:09](https://www.youtube.com/watch?v=YiUmteAbLt8&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=5)
 
-- **Demo** [Vídeo sugerido: Cómo crear mapas de riqueza y abundancia global y de mi familia de plantas asignada. En este vídeo, verás cómo crear mapas interactivos y estáticos de abundancia y riqueza, que podrás insertar en tu manuscrito. T35:31](https://www.youtube.com/watch?v=okMDGdgQ1EM&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=6)
+- **Demo**. [Vídeo: Análisis exploratorio de datos, parte 3. Mapas de riqueza y abundancia. T35:31](https://www.youtube.com/watch?v=okMDGdgQ1EM&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=6)
       
-- [Vídeo sugerido: Cómo crear mapas de variables ambientales. T27:37](https://www.youtube.com/watch?v=qe7qD03n0jI&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=7)
+- [Vídeo sugerido: Análisis exploratorio de datos, parte 4. Mapas de variables ambientales. T27:37](https://www.youtube.com/watch?v=qe7qD03n0jI&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=7)
       
-- **Demo** [Vídeo sugerido: Cómo realizar análisis y paneles de correlación entre variables ambientales. T40:39](https://www.youtube.com/watch?v=xfKGOWNyJVc&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=8)
+- **Demo**. [Vídeo: Análisis exploratorio de datos, parte 5. Paneles de correlación. T40:39](https://www.youtube.com/watch?v=xfKGOWNyJVc&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=8)
       
-- [Vídeo sugerido: Mapas de variables ambientales **por lotes**. T15:33](https://www.youtube.com/watch?v=SNYhP5mqlTQ&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=9)
+- [Vídeo sugerido: Análisis exploratorio de datos, parte 6. Mapas de variables ambientales por lotes. T15:33](https://www.youtube.com/watch?v=SNYhP5mqlTQ&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=9)
 
 
 ### Medidas de asociación: distancia.
 
+- **Demo**. [Vídeo: Medición de asociación, parte 1. Teoría sobre los modos Q y R, Orlóci. T29:12](https://www.youtube.com/watch?v=yQ10lp0-nHc&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=10)
+
+
+- [Vídeo sugerido: Medición de asociación, parte 2. Modo Q aplicado. T36:11](https://www.youtube.com/watch?v=M3GfFzkJFys&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=11)
+      
+- [Vídeo sugerido: Medición de asociación, parte 3. Modo R aplicado. T28:16](https://www.youtube.com/watch?v=mef9NIjXBWY&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=12)
+
 
 ### Análisis de agrupamiento (cluster analysis).
 
+- [Vídeo sugerido: Análisis de agrupamiento (cluster analysis), parte 1. Agrupamiento jerárquico. T38:14](https://www.youtube.com/watch?v=AW5L-uZlEvk&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=13)
+      
+- **Demo**. [Vídeo: Análisis de agrupamiento (cluster analysis), parte 2. Interpretación/comparación de resultados. T1:11:54](https://www.youtube.com/watch?v=y1ZZh9ajT_U&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=14)
+      
+- [Vídeo sugerido: Análisis de agrupamiento, parte 3. Grupos (clústers), variables ambientales y mapas. T33:49](https://www.youtube.com/watch?v=ZrXpgDAaDo8&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=15)
+      
+- **Demo**. [Vídeo: Análisis de agrupamiento, parte 4. Asociación de especies con hábitats. T55:05](https://www.youtube.com/watch?v=JK7hq71onKs&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=16)
 
 ### Análisis de ordenación.
 
+- **Demo**. [Vídeo: Técnicas de ordenación, parte 1. Ordenación no restringida o 'simple'. T2:08:05](https://www.youtube.com/watch?v=xLFz4WRgoDE&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=17)
+
+- [Vídeo sugerido: Técnicas de ordenación, parte 2. Ordenación restringida o 'canónica'. T1:11:44]()
 
 ### Análisis de diversidad.
 
+- **Demo**. [Vídeo: Análisis de diversidad, parte 1. Diversidad alpha. T1:45:15](https://www.youtube.com/watch?v=QVfVH2bVJbM&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=19)
+
+- [Vídeo sugerido: Análisis de diversidad, parte 2. Diversidad beta. T23:29](https://www.youtube.com/watch?v=rJ67sF0hYuE&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=20)
 
 ### Hacia dónde va el análisis de biodiversidad.
+
 
 
 ### Referencias
