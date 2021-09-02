@@ -275,21 +275,21 @@ variables necesarias para cualquier análisis de ecología numérica.
 
 Puedes consultar más en estos vídeos.
 
--   [Vídeo (versión en español): Un vistazo a la ciencia y los
-    cientificos que trabajan en la isla de Barro
+-   **Tarea**. [Vídeo (versión en español): Un vistazo a la ciencia y
+    los cientificos que trabajan en la isla de Barro
     Colorado](https://www.youtube.com/watch?v=bN54RGtxFeM)
 
--   [Vídeo (versión original en inglés): Barro Colorado Island: BCI -
-    Official Video - Smithsonian Tropical Research Institute in
+-   [Vídeo sugerido (versión original en inglés): Barro Colorado Island:
+    BCI - Official Video - Smithsonian Tropical Research Institute in
     Panama](https://www.youtube.com/watch?v=tRGG-XmNMhk)
 
--   [Vídeo: Datos censales parcela permanente 50 ha árboles BCI,
-    explicado por el
+-   [Vídeo sugerido: Datos censales parcela permanente 50 ha árboles
+    BCI, explicado por el
     tali](https://www.youtube.com/watch?v=Hm6yO_V6NUY&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=1)
 
 ### Una rápida intro a R
 
--   Objetos en R. Creé [este
+-   **Demo + tarea**. Objetos en R. Creé [este
     tutorial](https://geofis.shinyapps.io/tutorial1/) hace ya algún
     tiempo, pero pienso que sigue siendo útil. **Demo** en vivo.
 
@@ -307,9 +307,10 @@ correlación de Pearson) a dos posiciones decimales. Fuente:
 
  
 
--   **Demo**. [Vídeo: Análisis exploratorio de datos, parte 1. Objetos
-    en R, insertar en documento RMarkdown.
-    T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
+-   **Demo + tarea**. [Vídeo: Análisis exploratorio de datos, parte 1.
+    Objetos en R, insertar en documento RMarkdown. Recomendado hasta el
+    minuto
+    23:30](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
 
     > En el vídeo tutorial, así como en los siguientes, verás que me
     > refiero a scripts que disponen de dos versiones cada uno: una
@@ -326,16 +327,16 @@ correlación de Pearson) a dos posiciones decimales. Fuente:
     > Complementar con [este ejemplo](pipa-no-pipa.md) sobre el uso de
     > la pipa `%>%` en R.
 
--   **Demo**. [Vídeo: Análisis exploratorio de datos, parte 3. Mapas de
-    riqueza y abundancia.
+-   **Demo + tarea**. [Vídeo: Análisis exploratorio de datos, parte 3.
+    Mapas de riqueza y abundancia.
     T35:31](https://www.youtube.com/watch?v=okMDGdgQ1EM&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=6)
 
 -   [Vídeo sugerido: Análisis exploratorio de datos, parte 4. Mapas de
     variables ambientales.
     T27:37](https://www.youtube.com/watch?v=qe7qD03n0jI&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=7)
 
--   **Demo**. [Vídeo: Análisis exploratorio de datos, parte 5. Paneles
-    de correlación.
+-   **Demo + tarea**. [Vídeo: Análisis exploratorio de datos, parte 5.
+    Paneles de correlación.
     T40:39](https://www.youtube.com/watch?v=xfKGOWNyJVc&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=8)
 
 -   [Vídeo sugerido: Análisis exploratorio de datos, parte 6. Mapas de
@@ -344,8 +345,8 @@ correlación de Pearson) a dos posiciones decimales. Fuente:
 
 ### Medidas de asociación: distancia.
 
--   **Demo**. [Vídeo: Medición de asociación, parte 1. Teoría sobre los
-    modos Q y R, Orlóci.
+-   **Demo + tarea**. [Vídeo: Medición de asociación, parte 1. Teoría
+    sobre los modos Q y R, Orlóci.
     T29:12](https://www.youtube.com/watch?v=yQ10lp0-nHc&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=10)
 
 -   [Vídeo sugerido: Medición de asociación, parte 2. Modo Q aplicado.
@@ -360,22 +361,22 @@ correlación de Pearson) a dos posiciones decimales. Fuente:
     parte 1. Agrupamiento jerárquico.
     T38:14](https://www.youtube.com/watch?v=AW5L-uZlEvk&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=13)
 
--   **Demo**. [Vídeo: Análisis de agrupamiento (cluster analysis),
-    parte 2. Interpretación/comparación de resultados.
+-   **Demo + tarea**. [Vídeo: Análisis de agrupamiento (cluster
+    analysis), parte 2. Interpretación/comparación de resultados.
     T1:11:54](https://www.youtube.com/watch?v=y1ZZh9ajT_U&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=14)
 
 -   [Vídeo sugerido: Análisis de agrupamiento, parte 3. Grupos
     (clústers), variables ambientales y mapas.
     T33:49](https://www.youtube.com/watch?v=ZrXpgDAaDo8&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=15)
 
--   **Demo**. [Vídeo: Análisis de agrupamiento, parte 4. Asociación de
-    especies con hábitats.
+-   **Demo + tarea**. [Vídeo: Análisis de agrupamiento, parte 4.
+    Asociación de especies con hábitats.
     T55:05](https://www.youtube.com/watch?v=JK7hq71onKs&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=16)
 
 ### Análisis de ordenación.
 
--   **Demo**. [Vídeo: Técnicas de ordenación, parte 1. Ordenación no
-    restringida o ‘simple’.
+-   **Demo + tarea**. [Vídeo: Técnicas de ordenación, parte 1.
+    Ordenación no restringida o ‘simple’.
     T2:08:05](https://www.youtube.com/watch?v=xLFz4WRgoDE&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=17)
 
 -   [Vídeo sugerido: Técnicas de ordenación, parte 2. Ordenación
@@ -383,7 +384,8 @@ correlación de Pearson) a dos posiciones decimales. Fuente:
 
 ### Análisis de diversidad.
 
--   **Demo**. [Vídeo: Análisis de diversidad, parte 1. Diversidad alpha.
+-   **Demo + tarea**. [Vídeo: Análisis de diversidad, parte 1.
+    Diversidad alpha.
     T1:45:15](https://www.youtube.com/watch?v=QVfVH2bVJbM&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=19)
 
 -   [Vídeo sugerido: Análisis de diversidad, parte 2. Diversidad beta.
