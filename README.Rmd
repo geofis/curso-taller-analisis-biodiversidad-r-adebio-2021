@@ -176,7 +176,7 @@ Puedes consultar más en estos vídeos.
 
 - **Demo**. [Vídeo: Análisis exploratorio de datos, parte 1. Objetos en R, insertar en documento RMarkdown. T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
 
-> En el vídeo tutorial, así como en los siguientes, verás que me refiero a scripts que disponen de dos versiones cada uno: una versión Markdown (archivo `.md`) y una versión R (archivo `.R`). Utiliza la versión *Ra*" del archivo`.R` para copiar código, pegarlo en R y reproducir los análisis. Utiliza el archivo `.md` para ver el resultado "tejido" que obtendrías al ejecutar cada script.
+> En el vídeo tutorial, así como en los siguientes, verás que me refiero a scripts que disponen de dos versiones cada uno: una versión Markdown (archivo `.md`) y una versión R (archivo `.R`). Para reproducir análisis Utiliza la versión *Raw*" del archivo`.R`, porque desde ésta podrás copiar código y pegarlo en R sin problemas. La otra versión, la `.md`, te sirve para ver el resultado "tejido" que obtendrías al ejecutar cada script.
 
 - [Vídeo sugerido: Análisis exploratorio de datos, parte 2. Tutorial de tidyverse. T1:48:09](https://www.youtube.com/watch?v=YiUmteAbLt8&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=5)
 
