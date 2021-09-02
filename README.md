@@ -105,19 +105,25 @@ avanzados, R se caracteriza por lo siguiente:
 
 -   Software libre, código abierto.
 
-<br>
+ 
 
 <figure>
-<img src="img/os-apps-01.png" style="width:75.0%" alt="Varias aplicaciones de software de código abierto y/o libres" /><figcaption aria-hidden="true">Varias aplicaciones de software de código abierto y/o libres</figcaption>
+<img src="img/os-apps-01.png" width="75%"/>
+<figcaption>
+Varias aplicaciones de software de código abierto y/o libres
+</figcaption>
 </figure>
 
-<br>
+ 
 
 <figure>
-<img src="img/os-apps-02.png" style="width:75.0%" alt="ODK" /><figcaption aria-hidden="true">ODK</figcaption>
+<img src="img/os-apps-02.png" width="75%"/>
+<figcaption>
+ODK
+</figcaption>
 </figure>
 
-<br>
+ 
 
 -   Programación orientada a objetos.
 
@@ -125,7 +131,7 @@ avanzados, R se caracteriza por lo siguiente:
 
 -   Reproducibilidad (Markdown, cuadernos RMarkdown).
 
-<br>
+ 
 
 <figure>
 <img src="img/wickham-against-gui.png" width="75%"/>
@@ -137,22 +143,31 @@ Why program in R?
  
 
 <figure>
-<img src="img/share-code-repro-01.png" style="width:75.0%" alt="Reproducibilidad y preproducibilidad 1" /><figcaption aria-hidden="true">Reproducibilidad y preproducibilidad 1</figcaption>
+<img src="img/share-code-repro-01.png" width="75%"/>
+<figcaption>
+Reproducibilidad y preproducibilidad 1
+</figcaption>
 </figure>
 
-<br>
+ 
 
 <figure>
-<img src="img/share-code-repro-02.png" style="width:75.0%" alt="Reproducibilidad y preproducibilidad 2" /><figcaption aria-hidden="true">Reproducibilidad y preproducibilidad 2</figcaption>
+<img src="img/share-code-repro-02.png" width="75%"/>
+<figcaption>
+Reproducibilidad y preproducibilidad 2
+</figcaption>
 </figure>
 
-<br>
+ 
 
 <figure>
-<img src="img/share-code-repro-03.png" style="width:75.0%" alt="Tarjeta perforada" /><figcaption aria-hidden="true">Tarjeta perforada</figcaption>
+<img src="img/share-code-repro-03.png" width="75%"/>
+<figcaption>
+Tarjeta perforada
+</figcaption>
 </figure>
 
-<br>
+ 
 
 -   **Demo**. Probemos un sencillo ejemplo para demostrar la utilidad de
     los cuadernos RMD de dos formas distintas:
@@ -163,13 +178,17 @@ Why program in R?
 
 -   Control de versiones (Git, GitHub).
 
-<br>
+ 
 
 <figure>
-<img src="img/version-control.jpg" style="width:50.0%" alt="http://phdcomics.com/comics/archive_print.php?comicid=1531" /><figcaption aria-hidden="true"><a href="http://phdcomics.com/comics/archive_print.php?comicid=1531" class="uri">http://phdcomics.com/comics/archive_print.php?comicid=1531</a></figcaption>
+<img src="img/version-control.jpg" width="75%"/>
+<figcaption>
+Fuente:
+<a href="http://phdcomics.com/comics/archive_print.php?comicid=1531">http://phdcomics.com/comics/archive\_print.php?comicid=1531</a>
+</figcaption>
 </figure>
 
-<br>
+ 
 
 -   ¿Para qué me sirve la cuenta de GitHub?
 
@@ -283,10 +302,16 @@ Puedes consultar más en estos vídeos.
 ### Análisis exploratorio de datos (AED). ¿Por qué? Matrices de comunidad y ambiental.
 
 <figure>
-<img src="img/eda-importance.png" style="width:75.0%" alt="The Datasaurus Dozen. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: https://www.autodesk.com/research/publications/same-stats-different-graphs" /><figcaption aria-hidden="true"><em>The Datasaurus Dozen</em>. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: <a href="https://www.autodesk.com/research/publications/same-stats-different-graphs" class="uri">https://www.autodesk.com/research/publications/same-stats-different-graphs</a></figcaption>
+<img src="img/eda-importance.png" width="75%"/>
+<figcaption>
+The Datasaurus Dozen. Aunque diferentes en apariencia, cada conjunto de
+datos tiene el mismo resumen estadístico (media, desviación estándar y
+correlación de Pearson) a dos posiciones decimales. Fuente:
+<a href="https://www.autodesk.com/research/publications/same-stats-different-graphs">https://www.autodesk.com/research/publications/same-stats-different-graphs</a>
+</figcaption>
 </figure>
 
-<br>
+ 
 
 -   **Demo**. Exploremos los datos. [Vídeo: Crear script de análisis
     para generar objetos, tales como tablas de R y gráficos (por
@@ -294,8 +319,6 @@ Puedes consultar más en estos vídeos.
     en documento de manuscrito formato RMarkdown (análisis exploratorio
     de datos).
     T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
-
-<br>
 
 > En el vídeo tutorial, así como en los siguientes, verás que me refiero
 > a scripts que disponen de dos versiones cada uno: una versión Markdown

@@ -49,15 +49,21 @@ Sitúa los recursos de los que dispondrás en el curso.
 
 - Software libre, código abierto.
 
-<br>
+&nbsp;
 
-![Varias aplicaciones de software de código abierto y/o libres](img/os-apps-01.png){width=75%}
+<figure>
+<img src="img/os-apps-01.png" width="75%"/>
+<figcaption>Varias aplicaciones de software de código abierto y/o libres</figcaption>
+</figure>
 
-<br>
+&nbsp;
 
-![ODK](img/os-apps-02.png){width=75%}
+<figure>
+<img src="img/os-apps-02.png" width="75%"/>
+<figcaption>ODK</figcaption>
+</figure>
 
-<br>
+&nbsp;
 
 - Programación orientada a objetos.
 
@@ -65,7 +71,7 @@ Sitúa los recursos de los que dispondrás en el curso.
 
 - Reproducibilidad (Markdown, cuadernos RMarkdown).
 
-<br>
+&nbsp;
 
 <figure>
 <img src="img/wickham-against-gui.png" width="75%"/>
@@ -74,17 +80,26 @@ Sitúa los recursos de los que dispondrás en el curso.
 
 &nbsp;
 
-![Reproducibilidad y preproducibilidad 1](img/share-code-repro-01.png){width=75%}
+<figure>
+<img src="img/share-code-repro-01.png" width="75%"/>
+<figcaption>Reproducibilidad y preproducibilidad 1</figcaption>
+</figure>
 
-<br>
+&nbsp;
 
-![Reproducibilidad y preproducibilidad 2](img/share-code-repro-02.png){width=75%}
+<figure>
+<img src="img/share-code-repro-02.png" width="75%"/>
+<figcaption>Reproducibilidad y preproducibilidad 2</figcaption>
+</figure>
 
-<br>
+&nbsp;
 
-![Tarjeta perforada](img/share-code-repro-03.png){width=75%}
+<figure>
+<img src="img/share-code-repro-03.png" width="75%"/>
+<figcaption>Tarjeta perforada</figcaption>
+</figure>
 
-<br>
+&nbsp;
 
 - **Demo**. Probemos un sencillo ejemplo para demostrar la utilidad de los cuadernos RMD de dos formas distintas:
 
@@ -94,11 +109,15 @@ Sitúa los recursos de los que dispondrás en el curso.
 
 - Control de versiones (Git, GitHub).
 
-<br>
+&nbsp;
 
-![http://phdcomics.com/comics/archive_print.php?comicid=1531](img/version-control.jpg){width=50%}
+<figure>
+<img src="img/version-control.jpg" width="75%"/>
+<figcaption>Fuente: <a href="http://phdcomics.com/comics/archive_print.php?comicid=1531">http://phdcomics.com/comics/archive_print.php?comicid=1531</a></figcaption>
+</figure>
 
-<br>
+
+&nbsp;
 
 - ¿Para qué me sirve la cuenta de GitHub?
 
@@ -151,13 +170,14 @@ Puedes consultar más en estos vídeos.
 
 ### Análisis exploratorio de datos (AED). ¿Por qué? Matrices de comunidad y ambiental.
 
-![*The Datasaurus Dozen*. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: https://www.autodesk.com/research/publications/same-stats-different-graphs](img/eda-importance.png){width=75%}
+<figure>
+<img src="img/eda-importance.png" width="75%"/>
+<figcaption>The Datasaurus Dozen. Aunque diferentes en apariencia, cada conjunto de datos tiene el mismo resumen estadístico (media, desviación estándar y correlación de Pearson) a dos posiciones decimales. Fuente: <a href="https://www.autodesk.com/research/publications/same-stats-different-graphs">https://www.autodesk.com/research/publications/same-stats-different-graphs</a></figcaption>
+</figure>
 
-<br>
+&nbsp;
 
 - **Demo**. Exploremos los datos. [Vídeo: Crear script de análisis para generar objetos, tales como tablas de R y gráficos (por ejemplo, gráficos de mosaico, gráficos de dispersión), e insertarlos en documento de manuscrito formato RMarkdown (análisis exploratorio de datos). T39:19](https://www.youtube.com/watch?v=vRWoqzJrnk4&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=4)
-
-<br>
 
 > En el vídeo tutorial, así como en los siguientes, verás que me refiero a scripts que disponen de dos versiones cada uno: una versión Markdown (archivo `.md`) y una versión R (archivo `.R`). Utiliza la versión *Ra*" del archivo`.R` para copiar código, pegarlo en R y reproducir los análisis. Utiliza el archivo `.md` para ver el resultado "tejido" que obtendrías al ejecutar cada script.
 
